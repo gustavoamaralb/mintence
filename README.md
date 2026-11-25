@@ -148,6 +148,10 @@ The first number of a run comes from, in order: `-n`, `-m`, `(number)` in the in
 
 Bug reports, ideas and pull requests are welcome in the [issues](https://github.com/gustavoamaralb/mintence/issues).
 
+## AI assistance
+
+Developed with [Claude Code](https://claude.com/claude-code) (Anthropic) as an AI coding assistant. Commits it contributed to carry a `Co-Authored-By: Claude` trailer.
+
 ## Credits and license
 
 The code is under the [MIT license](LICENSE).
